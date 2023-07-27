@@ -41,7 +41,7 @@ npm install
 Start the Application: Now, you can start the development server.
 
 ```console
-npm start
+npm run start
 ```
 
 Access the Dashboard: The application should be running at http://localhost:3000 by default. Open your web browser and navigate to this address to access the Cryptocurrency Dashboard.
