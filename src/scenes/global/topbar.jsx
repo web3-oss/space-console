@@ -33,7 +33,7 @@ const TopBar = () => {
       )}
 
       <Box display="flex" p={1}>
-        {/*Search Bar*/}
+        {/*Search  Bar*/}
         <Box
           display="flex"
           backgroundColor={colors.primary[400]}
