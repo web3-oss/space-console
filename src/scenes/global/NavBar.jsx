@@ -13,9 +13,9 @@ import CurrencyRupeeIcon from '@mui/icons-material/CurrencyRupee';
 import { tokens } from "../../theme";
 
 export default function NavBar() {
-  const [selectedIndex, setSelectedIndex] = React.useState(1);
-  const theme = useTheme();
-  const colors = tokens(theme.palette.mode);
+  const [selectedIndex, setSelectedIndex] = React.useState(0);
+  //const theme = useTheme();
+  //const colors = tokens(theme.palette.mode);
   const handleListItemClick = (event, index) => {
     setSelectedIndex(index);
   };
