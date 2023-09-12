@@ -1,0 +1,20 @@
+KPIs
+
+ price
+
+ MarketCap
+
+ Supply
+
+ volume
+
+ Users
+
+ Transactions
+
+ TVL
+
+ Reserve/Treasury/Team
+
+ Inflation
+
