@@ -2,61 +2,61 @@ KPIs
 
  1. price
     Input: 
-    Output:
-    function:
+    Output: 1D, 1M, 1Y, all time Price change in %, Price range max min
+    function: indicates price of the asset 
     formulas:
 
  2. MarketCap
     Input: 
-    Output:
-    function:
+    Output: Current MarketCap, Fully diluted MarketCap
+    function: indicates size of the blockchain
     formulas:
 
  3. Supply
     Input: 
-    Output:
-    function:
+    Output: available supply, max supply
+    function: indicates impact of future price of the asset 
     formulas:
 
  4. volume
     Input: 
-    Output:
-    function:
+    Output: 1D, 1M, 1Y, all time Price change in %, Price range max min
+    function: indicates interest around the asset 
     formulas:
 
- 5. Users
+ 5. Users/Wallets
     Input: 
-    Output:
-    function:
+    Output: 1D, 1M, 1Y, Total users; small, medium, big wallet; activity low, medium, high 
+    function: indicates public adaption of blockchain/dapp
     formulas:
 
  6. Transactions
     Input: 
-    Output:
-    function:
+    Output: 1D, 1M, 1Y, all time, upper limit, change in %
+    function: indicates usage of blockchain/dapp
     formulas:
 
  7. TVL
     Input: 
-    Output:
-    function:
+    Output: 1D, 1M, 1Y, all time TVL change in %, TVL range max min
+    function: indicates economic activity of the blockchain/dapp
     formulas:
 
  8. Reserve/Treasury/Team allocation
     Input: 
-    Output:
-    function:
+    Output: supply, MarketCap
+    function: indicates funding for the further development
     formulas:
 
  9. Inflation
     Input: 
-    Output:
-    function:
+    Output: 1D, 1M, 1Y in %, in $, in supply
+    function: indicates expense to maintain blockchain/dapp
     formulas:
 
  10. Deflation 
     Input: 
-    Output:
-    function:
+    Output: 1D, 1M, 1Y in %, in $, in supply
+    function: indicates scarcity of the asset 
     formulas:
 
