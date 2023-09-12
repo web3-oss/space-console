@@ -1,20 +1,62 @@
 KPIs
 
- price
+ 1. price
+    Input: 
+    Output:
+    function:
+    formulas:
 
- MarketCap
+ 2. MarketCap
+    Input: 
+    Output:
+    function:
+    formulas:
 
- Supply
+ 3. Supply
+    Input: 
+    Output:
+    function:
+    formulas:
 
- volume
+ 4. volume
+    Input: 
+    Output:
+    function:
+    formulas:
 
- Users
+ 5. Users
+    Input: 
+    Output:
+    function:
+    formulas:
 
- Transactions
+ 6. Transactions
+    Input: 
+    Output:
+    function:
+    formulas:
 
- TVL
+ 7. TVL
+    Input: 
+    Output:
+    function:
+    formulas:
 
- Reserve/Treasury/Team
+ 8. Reserve/Treasury/Team allocation
+    Input: 
+    Output:
+    function:
+    formulas:
 
- Inflation
+ 9. Inflation
+    Input: 
+    Output:
+    function:
+    formulas:
+
+ 10. Deflation 
+    Input: 
+    Output:
+    function:
+    formulas:
 
