@@ -1,1 +1,18 @@
 SpaceConsole KPIS
+
+Chart -> 1D 1W 1M 1Y 5Y 10Y Max
+History -> Table - Monthly range open close max and min
+About -> Description, symbol, Name
+
+KPIS:
+
+Price: 1 Month price range, change
+MarketCap: Current and Total
+Supply: Current and Max
+Inflation: value in Dollar and %
+Volume: 1D only -> History 
+
+Users/wallets: big, medium, small range and history
+Transactions: No of Transactions range and History 
+total value locked: TVL Range
+
