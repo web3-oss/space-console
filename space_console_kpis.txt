@@ -16,3 +16,5 @@ Users/wallets: big, medium, small range and history
 Transactions: No of Transactions range and History 
 total value locked: TVL Range
 
+board stays the fix
+
