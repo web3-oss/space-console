@@ -15,4 +15,10 @@ Volume: 1D only -> History
 Users/wallets: big, medium, small range and history
 Transactions: No of Transactions range and History 
 total value locked: TVL Range
+Fear and greed index: 
+Social media engagement index
 
+board stays the fix
+first add 5 crypto projects 
+
+release date Q1 2024
